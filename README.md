@@ -30,7 +30,7 @@ python detect_open_mouth.py
 
 ![Output Sample]()
 
-![Facial Landmarks](https://github.com/0xSynapse/Real-time-Mouth-Recognition-using-OpenCV/blob/main/facial_landmarks_68markup-768x619.jpg)
+[Facial Landmarks](https://github.com/0xSynapse/Real-time-Mouth-Recognition-using-OpenCV/blob/main/facial_landmarks_68markup-768x619.jpg)
 
 
 
