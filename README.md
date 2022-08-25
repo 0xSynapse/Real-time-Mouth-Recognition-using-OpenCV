@@ -28,9 +28,9 @@ python detect_open_mouth.py
 ```
 
 
-![sample gif](./video/mouth_open.gif)
+![Output Sample]()
 
-![sample gif](./video/facial_landmarks_68markup-768x619.jpg)
+![Facial Landmarks]()
 
 
-![trump-mouth](./video/out_trump.gif)
+
