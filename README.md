@@ -15,6 +15,10 @@ Python modules for:
 * dlib
 * cv2
 
+## Training Data
+
+[68 Face Landmarks](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat)
+
 ## Usage
 This sample version uses your webcam, so make sure that the device you are using has one.  Otherwise, you will need to change the code to take in a video file.
 
